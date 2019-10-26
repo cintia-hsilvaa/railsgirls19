@@ -1,0 +1,22 @@
+// Place all the styles related to the Articles controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+* {
+    font-family: 'Roboto', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: red;
+    
+    font-family: 'Oswald', sans-serif;
+}
+a {
+    color: brown;
+    text-decoration: none;
+}
+
+.article {
+    .text {
+        margin-left: 50px;
+    }
+
+}
